@@ -11,4 +11,4 @@ To run the code without using the computer vision feature, run ["solve.py"](http
 To use the computer vision feature, run ["vision.py"](https://github.com/obadakatma/Pyraminx-Cube-Solver/blob/main/vision.py).  
 
 ## Project Video  
-[![Pyraminx Solver Demo](https://www.youtube.com/watch?v=VmXtqXqta_c/0.jpg)](https://www.youtube.com/watch?v=VmXtqXqta_c)
+[![Pyraminx Solver Demo](https://img.youtube.com/vi/VmXtqXqta_c/0.jpg)](https://www.youtube.com/watch?v=VmXtqXqta_c)
